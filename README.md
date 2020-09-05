@@ -23,4 +23,4 @@ Foi um prazer termos realizado esta sessão com todos, aqui ficam alguns contact
 * Lucas Romão - [@LucasRomao](https://twitter.com/LucasRomao)
 * Ivan Campos [@WizardDBA](https://twitter.com/WizardDBA)
 * Tiago Costa - [@tiagocostapt](https://twitter.com/tiagocostapt)
-* Viviane Ribeiro - [@viviane_sql] (https://twitter.com/viviane_sql)
+* Viviane Ribeiro - [@viviane_sql](https://twitter.com/viviane_sql)
