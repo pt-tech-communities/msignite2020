@@ -7,7 +7,7 @@
 * [Azure Usergroup Portugal](https://www.meetup.com/Azure-User-Group-Portugal/)
 
 #### Microsoft 365 / Office 365
-* [Office 365 Portugal](https://o365pt.org)
+* [Office 365 Portugal](http://o365pt.org)
 * [Comunidade Portuguesa de SharePoint](https://www.sharepointpt.org/)
 
 #### Data Platform
