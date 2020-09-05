@@ -6,5 +6,14 @@
 #### Microsoft Azure
 * [Azure Usergroup Portugal](https://www.meetup.com/Azure-User-Group-Portugal/)
 
+#### Microsoft 365 / Office 365
+* [Office 365 Portugal](https://o365pt.org)
+* [Comunidade Portuguesa de SharePoint](https://www.sharepointpt.org/)
+
 #### Data Platform
 * [Porto Data](https://www.portodata.net/)
+* [Comunidade Portuguesa de SQL Server](http://sqlport.com/)
+* [Power BI Portugal](https://www.meetup.com/Power-BI-Portugal/)
+
+#### Development
+* [NET Ponto](http://netponto.org/)
