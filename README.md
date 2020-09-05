@@ -17,3 +17,10 @@ Foi um prazer termos realizado esta sessão com todos, aqui ficam alguns contact
 
 #### Development
 * [NET Ponto](http://netponto.org/)
+
+### Contactos Oradores
+* Madalena Lima - [@Madalen24333679](https://twitter.com/Madalen24333679)
+* Lucas Romão - [@LucasRomao](https://twitter.com/LucasRomao)
+* Ivan Campos [@WizardDBA](https://twitter.com/WizardDBA)
+* Tiago Costa - [@tiagocostapt](https://twitter.com/tiagocostapt)
+* Viviane Ribeiro - [@viviane_sql] (https://twitter.com/viviane_sql)
