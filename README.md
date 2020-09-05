@@ -1,5 +1,5 @@
-# Portuguese Techinical Communities - Microsoft Ignite 2020
-## Foi um prazer termos realizado esta sessão com todos, aqui ficam alguns contactos interessantes
+# Portuguese Technical Communities - Microsoft Ignite 2020
+Foi um prazer termos realizado esta sessão com todos, aqui ficam alguns contactos interessantes nossos e das comunidades em Portugal.
 
 
 ### Lista Comunidades tecnicas em Portugal
