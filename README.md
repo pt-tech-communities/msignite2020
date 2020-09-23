@@ -10,7 +10,8 @@ Foi um prazer termos realizado esta sessão com todos, aqui ficam alguns contact
 * [Office 365 Portugal](http://o365pt.org)
 * [Comunidade Portuguesa de SharePoint](https://www.sharepointpt.org/)
 
-#### Data Platform
+#### Data & AI
+* [Data Analytics to Data Science](https://www.meetup.com/Data-Analytics-to-Data-Science/)
 * [Porto Data](https://www.portodata.net/)
 * [Comunidade Portuguesa de SQL Server](http://sqlport.com/)
 * [Power BI Portugal](https://www.meetup.com/Power-BI-Portugal/)
