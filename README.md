@@ -28,13 +28,13 @@ Foi um prazer termos realizado esta sessão com todos, aqui ficam alguns contact
 
 
 
-# Microsoft Certification
+## Microsoft CertificationS
 Recomendamos as seguintes certificações
 
 * Azure Fundamentals - [https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals?WT.mc_id=AZ-MVP-5001832)
 * Azure Data Fundamentals - [https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals?WT.mc_id=AZ-MVP-5001832)
 * Azure AI Fundamentals - [https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals?WT.mc_id=AZ-MVP-5001832)
 
-# Microsoft Learn Paths
+## Microsoft Learn Paths
 
 * Azure Fundamentals - [https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals?WT.mc_id=AZ-MVP-5001832)
